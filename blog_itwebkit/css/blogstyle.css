@@ -18,3 +18,9 @@ font-size:28px !important;
 .blog-heading,.blog-article{
 font-size:15px !important;
 }
+}
+	
+	.nav-link:hover {
+	border-top: 0px;
+	border-color: white !important;
+}
