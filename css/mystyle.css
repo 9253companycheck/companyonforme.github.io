@@ -537,10 +537,9 @@ min-width:550px !important;
 }
 .offer{
 	position: fixed;
-	left: 15px;
-	bottom: 50px;
+	right: 12px;
+	bottom: 10px;
 	z-index: 999;
-	display: none;
 }
 a{
 	text-decoration:none;
@@ -612,4 +611,11 @@ color:white;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
+.callus{
+color:white !important;
+}
+.callus:hover
+{
+color:white !important;	
 }
